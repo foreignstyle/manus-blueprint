@@ -41,6 +41,8 @@ This is as close to sci-fi AI as it gets!
 - Automated social media growth with minimal effort.  
 **Reaction**: "This is the closest I’ve felt to AGI."
 
+### 7. Valuable Sources:
+**Use cases: [link](https://manus.im/usecases)
 ---
 
 ## More Examples Coming Soon!
