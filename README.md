@@ -1,8 +1,6 @@
 # manus-blueprint
+![image-manus](https://github.com/foreignstyle/manus-blueprint/blob/main/manus-blueprint-image.png)
 ## Most useful Manus AI prompts &amp; practises
-
-![video](https://github.com/foreignstyle/manus-blueprint/blob/main/manus-video.mp4)
-
 
 ### 1. Three.js Plane Game
 **Prompt**: "Code a Three.js game where you control a plane."  
