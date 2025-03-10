@@ -1,6 +1,9 @@
 # manus-blueprint
 ## Most useful Manus AI prompts &amp; practises
 
+![video](https://github.com/foreignstyle/manus-blueprint/blob/main/manus-video.mp4)
+
+
 ### 1. Three.js Plane Game
 **Prompt**: "Code a Three.js game where you control a plane."  
 **Result**: Manus generated a fully functional 3D game using Three.js, complete with plane controls, rendering, and physics. Fly through a virtual world—all coded from scratch!
