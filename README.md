@@ -42,7 +42,8 @@ This is as close to sci-fi AI as it gets!
 **Reaction**: "This is the closest I’ve felt to AGI."
 
 ### 7. Valuable Sources:
-**Use cases: [link](https://manus.im/usecases)
+**Official Website**: https://manus.im
+**Use cases**: [link](https://manus.im/usecases)
 ---
 
 ## More Examples Coming Soon!
