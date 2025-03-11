@@ -43,7 +43,12 @@ This is as close to sci-fi AI as it gets!
 
 ### 7. Valuable Sources:
 **Official Website**: https://manus.im
-**Use cases**: [link](https://manus.im/usecases)
+
+**Use cases**: https://manus.im/usecases
+
+**Invitation form**: https://manus.im/invitation
+
+
 ---
 
 ## More Examples Coming Soon!
