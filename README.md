@@ -1,6 +1,6 @@
 # Manus AI Blueprint
 
-![image](https://github.com/foreignstyle/manus-blueprint/blob/main/ManusAI-Blueprint-Logo.png)
+![image](https://github.com/foreignstyle/manus-blueprint/blob/main/manus-banner.png)
 
 ## Introduction
 
